@@ -11,7 +11,11 @@ Navicat
 等
 三、功能描述
 基于SpringBoot+Vue实现的电影院售票系统整体设计了用户、管理员两个角色。
+
+
 详细代码介绍和截图移步：https://www.notmaker.com/detail/4d916704b3d842d3b8ae1067b14cbe88
+
+
 普通用户功能：
 
 登录
